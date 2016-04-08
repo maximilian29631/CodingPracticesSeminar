@@ -1,1 +1,4 @@
-Vi 4 lyfe! 
+Vim 4 lyfe! 
+
+
+VIM > emacs
